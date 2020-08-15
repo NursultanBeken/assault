@@ -1,5 +1,5 @@
 appdirs==1.4.4
--e git+https://github.com/NursultanBeken/assault.git@c8a4015ca2dca2a591d4ac339ca788de1cbbafdf#egg=assault
+-e git+https://github.com/NursultanBeken/assault.git@a0009d8eef55c44b182ccd85c155d6cf81e79f7b#egg=assault
 astroid==2.4.2
 attrs==19.3.0
 black==19.10b0
