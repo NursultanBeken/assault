@@ -3,9 +3,13 @@ import os
 import requests
 import time
 
+"""
+this is tests git
+"""
+
 
 def fetch(url):
-    """Make the request and return the results """
+    """Make the request and return the results"""
     started_at = time.monotonic()
     response = requests.get(url)
     request_time = time.monotonic() - started_at
