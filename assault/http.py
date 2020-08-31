@@ -7,6 +7,10 @@ import time
 this is tests git
 """
 
+"""
+change #2 test git reset
+"""
+
 
 def fetch(url):
     """Make the request and return the results"""
